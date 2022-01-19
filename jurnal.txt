@@ -1,0 +1,13 @@
+#OKEJEK FLUTTER PROBLEM
+
+- Ongkir untuk food dan mart masih Rp0
+- Pesan untuk Food dan Mart masih INTERNAL SERVER ERROR [500]
+  ==> Pesanan akan terhitung sebagai HTTP Status Error [500] dikarenakan 
+      keterkaitan dengan Merchant. Walaupun begitu proses pemesanan akan 
+      tetap masuk ke dalam riwayat pemesanan
+
+PENDING
+- Ketika create order dengan payment_provider : cash ===> SUCCESS
+  Ketika create order dengan payment_provider : linkaja ===> INTERNAL SERVER ERROR [500]
+
+

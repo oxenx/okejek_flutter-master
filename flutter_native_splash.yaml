@@ -1,0 +1,8 @@
+flutter_native_splash:
+
+  android: true # show for android, you may set it to false
+  ios: true # show for IOS, you may set it to false
+  image: assets\images\splash_screen.png # the default image for light and dark themes. Until now, images should be png images
+  color: "#ffffff" # the default color for light and dark themes
+  android_gravity: center
+  fullscreen: true
